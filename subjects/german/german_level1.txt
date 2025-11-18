@@ -1,34 +1,47 @@
-**1. Der 4-Wörter-Satz:** Wähle eines der folgenden Verben: *laufen, singen, denken, regnen*. Schreibe damit einen grammatikalisch korrekten und vollständigen Satz, der **genau vier Wörter** enthält. Wiederhole diese Übung für jedes der vier Verben.
+**1. Was ist der Artikel (Begleiter)?**
+Der Artikel (oder Begleiter) steht immer vor einem Nomen (Namenwort). Er zeigt uns, welches **Geschlecht** (Maskulinum, Femininum, Neutrum) und welchen **Fall** (Kasus) das Nomen hat. Es gibt **bestimmte** Artikel (der, die, das) und **unbestimmte** Artikel (ein, eine, ein).
 **=END=**
 
-**2. Verwandle die Zeit:** Schreibe einen kurzen Absatz (max. 3 Sätze) über deinen Morgenablauf. Schreibe diesen Absatz anschließend komplett neu, indem du alle Verben von der **Gegenwart (Präsens) in die Vergangenheit (Präteritum)** setzt.
+**2. Was ist der Unterschied zwischen Nomen und Verb?**
+Das **Nomen** (Namenwort) ist ein Lebewesen, ein Gegenstand oder ein Begriff (z.B. *Tisch*, *Hund*, *Freiheit*). Es wird immer **großgeschrieben**. Das **Verb** (Tuwort) beschreibt eine **Tätigkeit** oder einen **Zustand** (z.B. *laufen*, *sein*, *schlafen*). Es wird fast immer kleingeschrieben und verändert seine Form je nach Person und Zeit.
 **=END=**
 
-**3. Das Gegenteil-Paar:** Nenne für jedes der folgenden Adjektive **ein** passendes Substantiv (z.B. *schnell* $\rightarrow$ *Auto*) und anschließend das **Gegenteil** des Adjektivs mit einem **anderen** passenden Substantiv (z.B. *langsam* $\rightarrow$ *Schnecke*): *hell, groß, müde, kalt, laut.*
+**3. Was ist der Nominativ (1. Fall)?**
+Der Nominativ ist der **Grundfall** eines Satzes. Er antwortet auf die Frage **„Wer oder Was?“** und ist immer das **Subjekt** (der Handelnde) des Satzes.
+*Beispiel: **Der Hund** bellt. (Wer oder Was bellt? → Der Hund)*
 **=END=**
 
-**4. Die Komma-Polizei:** Schreibe die folgenden beiden Sätze ab und füge alle **fehlenden Kommata** korrekt ein:
-*Ich kaufte Brot Käse Milch und Äpfel weil ich großen Hunger hatte.*
-*Obwohl es regnete ging Peter mit seinem Hund im Park spazieren.*
+**4. Was ist die Präsens (Gegenwart)?**
+Die Präsens ist die Zeitform, die wir verwenden, um über Dinge zu sprechen, die **jetzt gerade passieren**, **regelmäßig** geschehen oder immer gültig sind.
+*Beispiel: Ich **gehe** jetzt nach Hause. Die Sonne **scheint**.*
 **=END=**
 
-**5. Der Satz-Start:** Schreibe drei Sätze über das Wetter. Jeder Satz muss mit einem anderen Wort beginnen, das **kein Artikel (der, die, das)** oder **Personalpronomen (ich, du, er, sie, es, wir, ihr, sie)** ist.
+**5. Was ist ein Adjektiv (Eigenschaftswort)?**
+Ein Adjektiv beschreibt, **wie** etwas ist. Es liefert zusätzliche Informationen über ein Nomen. Adjektive können gesteigert werden.
+*Beispiel: Das ist ein **schnelles** Auto. (schnell, schneller, am schnellsten)*
 **=END=**
 
-**6. Das Nomen-Tier:** Wähle fünf **konkrete Nomen** (z.B. *Stuhl, Baum, Buch, Fenster, Schlüssel*). Schreibe für jedes Nomen einen Satz, in dem es als **Tier** oder **Pflanze** personifiziert wird (z.B. *Der Stuhl **kauerte** in der Ecke.*).
+**6. Was ist eine Hauptsatzregel?**
+Ein Hauptsatz ist ein vollständiger Satz, der alleine stehen kann. Die wichtigste Regel ist: Das **konjugierte Verb** (das an die Person angepasste Verb) steht immer an der **zweiten Position** im Satz.
+*Beispiel: Ich **esse** einen Apfel.*
 **=END=**
 
-**7. Das Wortfeld „sagen“:** Schreibe den Satz: „Ich bin heute müde“, fünfmal ab. Ersetze das Verb „sagen“ in jedem Satz durch ein **passenderes Verb** (z.B. *flüstern, murmeln, rufen, klagen, stöhnen*).
+**7. Was sind Personalpronomen?**
+Personalpronomen (persönliche Fürwörter) **ersetzen** ein Nomen. Wir verwenden sie, damit wir das Nomen nicht ständig wiederholen müssen.
+*Beispiel: **Anna** geht in die Schule. **Sie** hat ein Buch dabei. (Die Personalpronomen sind: ich, du, er, sie, es, wir, ihr, sie).*
 **=END=**
 
-**8. Der Dreifache Fragesatz:** Schreibe einen kurzen Satz, der eine einfache Aussage trifft (z.B. *Das Essen schmeckt gut.*). Formuliere diesen Satz auf **drei verschiedene Arten** als Frage um, die jeweils mit einem anderen **Fragewort** (Wer, Was, Wann, Wo, Warum, Wie) beginnt.
+**8. Was sind die Umlaute?**
+Umlaute sind die drei speziellen Buchstaben im Deutschen: **Ä, Ö, Ü** (oder ä, ö, ü). Sie entstehen, wenn die Vokale A, O, U einen kleinen Vokalwechsel erfahren. Sie können die Bedeutung eines Wortes verändern.
+*Beispiel: Der **Mann** $\rightarrow$ Die **Männer** (Pluralbildung).*
 **=END=**
 
-**9. Das Adjektiv-Tauschspiel:** Wähle einen beliebigen kurzen Text (2-3 Sätze) aus einem Buch oder einer Zeitung. Tausche **jedes Adjektiv** in diesem Text gegen ein **zufällig ausgewähltes, völlig unpassendes Adjektiv** aus (z.B. *Der **helle** Tag* wird zu *Der **traurige** Tag*). Lies den Text danach laut vor.
+**9. Wann benutzt man den bestimmten Artikel (der, die, das)?**
+Der bestimmte Artikel wird verwendet, wenn das Nomen **schon bekannt** ist, **einzigartig** ist oder **zuvor schon erwähnt** wurde.
+*Beispiel: Ich sehe einen Hund. **Der Hund** ist groß. (Der Leser weiß jetzt, welcher Hund gemeint ist).*
 **=END=**
 
-**10. Finde die Subjekt-Objekt-Paare:** Schreibe in den folgenden Sätzen auf, wer oder was das **Subjekt** ist (die handelnde Person/Sache) und wer oder was das **Akkusativ-Objekt** (wen oder was?) ist:
-*Der Lehrer lobt die fleißige Schülerin.*
-*Das Kind isst einen großen Apfel.*
-*Die Sonne wärmt die Erde.*
+**10. Was ist der Akkusativ (4. Fall)?**
+Der Akkusativ ist der Fall für das **direkte Objekt**. Er antwortet auf die Frage **„Wen oder Was?“** und wird vom Verb im Satz bestimmt.
+*Beispiel: Ich sehe **den Baum**. (Wen oder Was sehe ich? → Den Baum).*
 **=END=**

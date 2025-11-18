@@ -1,31 +1,45 @@
-**1. Die Klammersatz-Jonglage:** Schreibe einen Hauptsatz, der **drei trennbare Verben** enthält (z.B. *anfangen, aufstehen, mitkommen*). Formuliere diesen Satz dreimal neu, indem du ihn jeweils mit einer anderen **Subjunktion** (z.B. *weil, dass, wenn*) in einen **Nebensatz** verwandelst. Achte dabei auf die korrekte Position der **konjugierten** und **getrennten** Verbteile am Ende des Nebensatzes.
+**1. Die Nominalisierung von Sätzen (Substantivierung):**
+Nominalisierung ist ein Prozess, bei dem ein ganzer Sachverhalt (oft ein Verb oder ein ganzer Nebensatz) in eine **Nominalphrase** umgewandelt wird. Dies erhöht die **Dichte** und **Formalität** des Textes und ist typisch für die Wissenschafts- oder Behördensprache. Statt eines Nebensatzes (*dass man das Projekt **beginnt***) wird eine Nominalstruktur verwendet (*der **Beginn** des Projekts*). Dies erfordert oft die Nutzung von Funktionsverben und Genitiv-Attributen.
 **=END=**
 
-**2. Der Tempus-Perspektivenwechsel:** Wähle ein literarisches Ereignis oder eine komplexe historische Begebenheit. Beschreibe dieses Ereignis in einem Absatz (max. 4 Sätze) im **Plusquamperfekt**. Hänge anschließend einen Schlusssatz im **Futur I** an, der eine mögliche Konsequenz aus diesem Ereignis zieht.
+**2. Der erweiterte Partizipial-Attributsatz:**
+Hierbei handelt es sich um eine **Verkürzung** von Relativsätzen zur Reduktion der Nebensatzstruktur. Ein **Partizip** (I oder II) übernimmt die Funktion des Verbs und wird zusammen mit seinen **Ergänzungen** (Objekten, Adverbialen) als komplexes Attribut **vor** das Nomen gestellt. Dies erfordert die korrekte Adjektiv-Deklination des Partizips.
+*Beispiel: "Die **von der Regierung beschlossene** Maßnahme..." (Statt: Die Maßnahme, die von der Regierung beschlossen wurde).*
 **=END=**
 
-**3. Das Partizipial-Gewitter:** Schreibe einen Hauptsatz, der eine Person beschreibt, die **drei verschiedene Handlungen gleichzeitig** ausführt (z.B. *Der Mann schaut fern, isst Chips und lacht.*). Reduziere diesen Hauptsatz auf einen **verkürzten, eleganten Satz**, indem du zwei der Handlungen in **Partizip I- oder Partizip II-Konstruktionen** umwandelst (z.B. *Lachend und Chips essend schaut der Mann fern.*).
+**3. Inversion zur stilistischen Hervorhebung:**
+Die Inversion bezeichnet die Umstellung der Satzglieder, bei der das **konjugierte Verb** zwar an der zweiten Stelle bleibt, der **erste Platz** jedoch nicht vom Subjekt, sondern von einem **Adverbial** oder einem **Objekt** eingenommen wird. Dies dient der **rhetorischen oder stilistischen Betonung** dieses Satzteils. Besonders bei Negationen mit **"nie"** oder **"kaum"** ist diese Form obligatorisch.
+*Beispiel: **Kaum** hatten wir das Haus verlassen, begann es zu regnen.*
 **=END=**
 
-**4. Die Kausale Satzreduktion:** Schreibe einen Satz, der einen **kausalen Zusammenhang** herstellt, indem du die Konjunktion **"weil"** verwendest. Formuliere denselben Satz zweimal neu:
-* Einmal unter Verwendung der **Präposition "wegen"** mit korrektem **Genitiv**.
-* Einmal unter Verwendung der **Präposition "aufgrund"** mit korrektem **Genitiv**.
+**4. Das Ersatz-Infinitiv im Perfekt mit Modalverben:**
+Im Perfekt und Plusquamperfekt bildet das Modalverb zusammen mit einem **Vollverb** das **Doppelinfinitiv**. Das Modalverb selbst tritt dann nicht als Partizip II auf, sondern ebenfalls als **Infinitiv**.
+*Beispiel: Ich habe das Buch **lesen müssen**. (Statt: Ich habe das Buch gemusst gelesen – Falsch!).* Dies betrifft auch die Verben *lassen, helfen* und *hören/sehen*.
 **=END=**
 
-**5. Der Indirekte Bericht:** Wähle einen einfachen Satz, der eine Meinung oder eine Behauptung ausdrückt (z.B. *Der Film war ausgezeichnet*). Formuliere diesen Satz in den **indirekten Bericht** um, indem du einen einleitenden Hauptsatz (*Sie sagte, ...*) und anschließend den **Konjunktiv I** verwendest. Schreibe den Satz anschließend erneut mit der **Konjunktiv II Ersatzform ("würde")** um, falls Konjunktiv I und Indikativ identisch sind.
+**5. Subjektive Verwendung von Modalverben:**
+Modalverben können nicht nur die **Möglichkeit/Notwendigkeit der Handlung** (objektive Modalität) ausdrücken, sondern auch die **Einstellung des Sprechers zur Aussage** (subjektive Modalität). Sie drücken dann eine **Vermutung** oder eine **Wahrscheinlichkeit** aus.
+*Beispiel: Er **muss** krank sein (Hohe Wahrscheinlichkeit/Schlussfolgerung). Sie **mag** das vergessen haben (geringe Wahrscheinlichkeit).*
 **=END=**
 
-**6. Die Pronominaladverb-Kette:** Wähle einen Hauptsatz, der ein **Dativ-Objekt** und ein **Präpositional-Objekt** enthält (z.B. *Ich denke an den Urlaub und helfe meinem Freund*). Formuliere diesen Satz um, indem du das Präpositional-Objekt durch ein **Pronominaladverb** (z.B. *daran, damit, wovon*) ersetzt und das Dativ-Objekt durch das entsprechende **Personalpronomen**. Achte auf die korrekte Satzstellung.
+**6. Die erweiterte Infinitivgruppe mit "zu":**
+Die erweiterte Infinitivgruppe ist ein Nebensatz-Äquivalent, das mit **"zu" + Infinitiv** gebildet wird. Sie wird verwendet, wenn der **Infinitiv dasselbe Subjekt** wie der Hauptsatz hat oder wenn das Subjekt im Hauptsatz impliziert ist. Die Infinitivgruppe wird **durch Komma abgetrennt**, wenn sie mit den Wörtern *um, ohne, statt* eingeleitet wird oder ein **korrelatives Satzglied** im Hauptsatz steht (*dazu, daran*).
+*Beispiel: Er versuchte, **die schwere Kiste allein zu tragen**.*
 **=END=**
 
-**7. Das Relativsatz-Verschachtelung:** Wähle ein Substantiv (z.B. *Das Haus*). Schreibe einen einzigen Satz, der dieses Substantiv als Bezugswort hat und **zwei verschachtelte Relativsätze** enthält. Der zweite Relativsatz muss sich auf ein Substantiv im ersten Relativsatz beziehen (z.B. *Das Haus, das einen Garten hat, **der** voller seltener Blumen ist, ...*).
+**7. Das Pronominaladverb (Präpositionaladverb):**
+Pronominaladverbien ersetzen ein **präpositionales Objekt** (Objekt mit fester Präposition), wenn es sich um eine **Sache** handelt. Sie werden aus **"da-" + Präposition** gebildet (*damit, davon, daran*) oder als Frage aus **"wo-" + Präposition** (*womit, wovon, woran*). Bei Vokalen wird ein **-r-** eingeschoben (*daran, worauf*). Sie helfen, Wiederholungen zu vermeiden und Sätze zu straffen.
 **=END=**
 
-**8. Adjektivdeklination mit Dopplung:** Wähle ein Substantiv im **Plural** (z.B. *Die Kinder*). Schreibe einen Satz im **Dativ** mit diesem Substantiv. Verwende **zwei vorangestellte Adjektive** und setze vor das erste Adjektiv einen **unbestimmten Artikel** (oder kein Artikel) und vor das zweite Adjektiv einen **bestimmten Artikel**. Achte auf die korrekte, teils unterschiedliche Endung beider Adjektive.
+**8. Temporale Nebensätze zur Gleichzeitigkeit (während, solange):**
+Temporale Nebensätze drücken eine **zeitliche Relation** zwischen Haupt- und Nebensatz aus. **"Während"** drückt eine **andauernde Gleichzeitigkeit** aus, oft mit einem Kontrast. **"Solange"** drückt aus, dass die Handlung des Hauptsatzes nur für die **Dauer** der Nebensatzhandlung gilt. Die korrekte Konjunktion ist entscheidend für die exakte Bedeutung der zeitlichen Abhängigkeit.
 **=END=**
 
-**9. Der Vergleichssatz mit Kontrast:** Schreibe einen Vergleichssatz, der eine **Ähnlichkeit** ausdrückt und das Wort **"sowohl... als auch"** verwendet. Formuliere den Satz anschließend neu, um einen **starken Kontrast** auszudrücken, indem du das Wort **"weder... noch"** verwendest. Achte auf die korrekte Satzstruktur in beiden Fällen.
+**9. Genitiv-Objekt und Verben:**
+Obwohl der Genitiv hauptsächlich als Attribut dient, gibt es eine kleine Gruppe von Verben, die ein **Genitiv-Objekt** fordern. Diese sind oft in der formalen oder gehobenen Sprache zu finden. Solche Verben drücken häufig **geistige Tätigkeiten** (*sich erinnern, gedenken*), **rechtliche Sachverhalte** (*anklagen*) oder **emotionale Betroffenheit** aus.
+*Beispiel: Er **gedachte** **der Opfer** des Krieges.*
 **=END=**
 
-**10. Stilistische Verdichtung:** Schreibe einen kurzen Absatz (3 Sätze), der eine einfache Szene beschreibt (z.B. *Ein Hund läuft schnell im Park.*). Reduziere diesen Text auf einen **einzigen, komplexen Satz**, indem du so viele Informationen wie möglich mithilfe von **Präpositionalphrasen, erweiterten Partizipialattributen und Appositionen** zusammenfasst.
+**10. Der Konzessivsatz und seine Parallelen:**
+Der Konzessivsatz (eingeleitet durch *obwohl, obgleich*) drückt einen **unerwarteten, entgegengesetzten Grund** aus, der das Hauptereignis nicht verhindern konnte. Er steht in enger stilistischer Beziehung zum **Adversativsatz** (*während, wohingegen*), der einen **Kontrast** oder eine **Gegenüberstellung** betont, und zur **konzessiven Präposition** (*trotz* mit Genitiv), die den Sachverhalt verkürzt.
 **=END=**

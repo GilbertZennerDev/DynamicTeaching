@@ -1,42 +1,41 @@
-**1. Die Konjunktiv-Wunschliste:** Schreibe einen kurzen Absatz (3 Sätze), in dem du beschreibst, was du **gerne hättest** oder was **anders sein sollte** in deinem Leben (oder in der Welt). Verwende in jedem Satz den **Konjunktiv II** (z.B. *wäre, hätte, würde + Infinitiv*).
+**1. Der Unterschied zwischen Präteritum und Perfekt:**
+Beide Zeitformen drücken **Vergangenheit** aus. Das **Perfekt** (*Ich habe gegessen*) wird meistens in der **gesprochenen Sprache** verwendet, um vergangene Handlungen zu beschreiben, deren Wirkung bis in die Gegenwart reicht. Das **Präteritum** (*Ich aß*) wird hauptsächlich in der **geschriebenen Sprache** (Erzählungen, Berichten) benutzt, um die erzählte Handlung voranzutreiben.
 **=END=**
 
-**2. Der Passiv-Detektiv:** Schreibe einen kurzen Satz im **Aktiv**, der eine Aktion beschreibt (z.B. *Der Bäcker backt das Brot*). Formuliere diesen Satz anschließend in **drei** verschiedene Passivformen um:
-* **Vorgangspassiv** (Präsens)
-* **Zustandspassiv** (Präsens)
-* **Vorgangspassiv** (Präteritum)
+**2. Die Funktion des Konjunktiv II (Irrealis):**
+Der Konjunktiv II drückt eine **Irrealität** aus – etwas, das **nicht wahr** oder **nicht möglich** ist. Er wird hauptsächlich für **Wünsche** (*Ich **wäre** jetzt gerne im Urlaub*), **Höflichkeit** (***Würden** Sie mir helfen?*), oder **irreale Bedingungssätze** (*Wenn ich Zeit **hätte**, würde ich kommen*) verwendet. Oft wird die Ersatzform mit **"würde" + Infinitiv** genutzt.
 **=END=**
 
-**3. Das Adverbial-Rätsel:** Beschreibe einen kurzen Vorgang (z.B. *Kaffee kochen, einen Brief schreiben*) in maximal vier Sätzen. Beginne jeden Satz mit einem **Adverbial** der folgenden Kategorien in dieser Reihenfolge:
-* **Temporal** (Zeit)
-* **Lokal** (Ort)
-* **Modal** (Art und Weise)
-* **Kausal** (Grund)
+**3. Trennbare und untrennbare Verben:**
+Viele Verben haben Präfixe (Vorsilben). Bei **trennbaren Verben** (z.B. *auf**stehen*) **trennt** sich das Präfix im Hauptsatz ab und wandert ans Ende (*Ich **stehe** jeden Morgen um sieben **auf**.*). Bei **untrennbaren Verben** (z.B. *ver**kaufen*) bleibt das Präfix immer **fest** mit dem Verb verbunden (*Ich **verkaufe** mein Auto.*). Das Präfix trägt bei untrennbaren Verben keine Betonung.
 **=END=**
 
-**4. Die Nominalisierungskette:** Schreibe fünf Verben auf, die eine Aktivität beschreiben (z.B. *reden, lernen, schlafen, gehen, helfen*). Schreibe für jedes Verb die zugehörige **Nominalisierung** (das Nomen) und verwende dieses Nomen in einem **grammatikalisch korrekten Satz**.
+**4. Die Präpositionen mit Dativ und Akkusativ (Wechselpräpositionen):**
+Wechselpräpositionen (*an, auf, hinter, in, neben, über, unter, vor, zwischen*) können den **Dativ** oder den **Akkusativ** verlangen. Der **Dativ** wird verwendet, wenn eine **Position** (ein Ort, an dem man ist) ausgedrückt wird (Frage: **Wo?**). Der **Akkusativ** wird verwendet, wenn eine **Bewegung** in eine Richtung (Ziel, Ortsveränderung) ausgedrückt wird (Frage: **Wohin?**).
 **=END=**
 
-**5. Zwei Hauptsätze, eine Relation:** Schreibe zwei grammatikalisch vollständige, aber **kurze Hauptsätze** (z.B. *Es regnet. Ich bleibe drinnen.*). Verbinde diese beiden Sätze anschließend nacheinander mit **drei verschiedenen** Konjunktionen:
-* **Kausal** (Grund $\rightarrow$ *weil...*)
-* **Konzessiv** (Gegengrund $\rightarrow$ *obwohl...*)
-* **Temporal** (Zeitgleichheit $\rightarrow$ *während...*)
+**5. Der Genitiv (2. Fall) und seine Funktion:**
+Der Genitiv drückt meist eine **Zugehörigkeit** (Possession) oder eine **Relation** aus und antwortet auf die Frage **„Wessen?“**. Im modernen Deutsch wird er oft durch die Präposition **"von"** mit dem Dativ ersetzt, bleibt aber in der **geschriebenen und formalen Sprache** wichtig, besonders bei Attributen (*Die Farbe **des Himmels** war blau.*).
 **=END=**
 
-**6. Die Präposition der Vielseitigkeit:** Wähle eine der folgenden Präpositionen: ***auf***, ***über*** oder ***unter***. Schreibe drei Sätze, in denen du die gewählte Präposition einmal mit dem **Dativ** und zweimal mit dem **Akkusativ** verwendest. Erkläre kurz (in Klammern), warum du den jeweiligen Kasus gewählt hast.
+**6. Die Bildung von Relativsätzen:**
+Ein **Relativsatz** ist ein Nebensatz, der zusätzliche Informationen über ein **Bezugsnomen** im Hauptsatz liefert. Er beginnt mit einem **Relativpronomen** (*der, die, das, welcher, welche, welches*), das sich im **Numerus** und **Genus** an das Nomen anpasst, aber seinen **Kasus** (Fall) durch seine Funktion *im* Nebensatz erhält. Das konjugierte Verb steht am Ende.
 **=END=**
 
-**7. Der Doppel-Genitiv:** Schreibe einen einzigen Satz, der **zwei verschiedene Genitiv-Attribute** enthält. Das zweite Genitiv-Attribut muss das erste Genitiv-Attribut **näher bestimmen** (z.B. *Der Schlüssel **des alten Mannes** **meiner Nachbarin***).
+**7. Der Gebrauch des Konjunktiv I (Indirekte Rede):**
+Der Konjunktiv I wird fast ausschließlich zur Kennzeichnung der **indirekten Rede** verwendet. Man zeigt damit an, dass eine Aussage von **einer anderen Person** stammt und nicht die eigene Überzeugung darstellt. Das Verb steht in dieser Form, um die Distanz zur ursprünglichen Aussage zu signalisieren.
+*Beispiel: Er sagte, er **habe** viel gearbeitet.*
 **=END=**
 
-**8. Der Kasus-Tausch:** Schreibe einen Satz, der ein **Dativ-Objekt** und ein **Akkusativ-Objekt** enthält (z.B. *Ich schenke **meinem Bruder** **ein Buch**.*). Formuliere den Satz um, indem du die beiden Objekte beibehältst, aber das **Dativ-Objekt** nun im Satz **vor dem Akkusativ-Objekt** steht.
+**8. Der Unterschied zwischen Kausal- und Konzessivsätzen:**
+Beide Nebensatzarten geben eine Begründung an, aber mit unterschiedlicher Bedeutung. Der **Kausalsatz** (eingeleitet durch *weil, da*) gibt den **tatsächlichen Grund** an (*Ich gehe, **weil** ich müde bin*). Der **Konzessivsatz** (eingeleitet durch *obwohl*) gibt einen **Gegengrund** an, der das Hauptereignis *eigentlich* verhindern müsste (*Ich gehe, **obwohl** ich müde bin*).
 **=END=**
 
-**9. Die Modalverb-Botschaft:** Wähle einen einfachen Satz (z.B. *Er kommt später*). Schreibe diesen Satz viermal ab und verwende jedes Mal ein anderes **Modalverb** (*können, müssen, sollen, dürfen*) vor dem Infinitiv. Erkläre kurz, wie sich die **Bedeutung** des Satzes durch das Modalverb verändert.
+**9. Partizipien als Adjektive:**
+Das **Partizip I (Präsens)** (*lauf**end***) und das **Partizip II (Perfekt)** (*gelauf**en***) können wie Adjektive verwendet werden, um Nomen zu beschreiben. Das Partizip I beschreibt eine **gleichzeitige oder aktive Handlung** (*der **lesende** Mann*). Das Partizip II beschreibt einen **abgeschlossenen Zustand** oder eine **passive Handlung** (*der **gelesene** Text*).
 **=END=**
 
-**10. Stilistische Steigerung:** Schreibe einen kurzen, einfachen Satz (z.B. *Die Blume ist schön.*). Erweitere diesen Satz auf **drei verschiedene Weisen** so, dass er jeweils **mindestens ein Attribut** enthält, das durch **folgendes** gebildet wird:
-* Ein **Adjektiv**
-* Ein **Genitiv-Attribut**
-* Ein **Relativsatz**
+**10. Verneinung mit "nicht" und "kein":**
+Die Verneinung von Sätzen erfolgt entweder mit **"nicht"** oder mit **"kein"**. **"Kein"** verneint das **Nomen**, wenn es **ohne Artikel** oder mit einem **unbestimmten Artikel** (*ein/eine*) steht. **"Nicht"** verneint den **gesamten Satz** oder ein **einzelnes Satzglied** wie das Verb, Adjektiv oder Adverb.
+*Beispiel: Ich habe **kein** Auto. / Ich fahre **nicht** schnell.*
 **=END=**
