@@ -1,26 +1,27 @@
-# DynamicHomework
-## ✨ What is the Homework Dynamo?
+# DynamicTeaching
 
-Tired of static, boring assignment lists? **The Homework Dynamo is the answer\!**
+## ✨ Was ist der Dynamic Explainer?
 
-This sleek Python project, built with the power of Streamlit, **dynamically** and **randomly** generates a defined number of tasks from various subjects and difficulty levels. It is the ultimate proof of how simple and effective modern Python tools can be used to solve everyday problems.
+Schluss mit der Einheitserklärung\! **Der Dynamic Explainer ist die Antwort\!**
 
-**The Goal:** Never see the same assignments again\! Provide students with an **infinite source** of variable exercises.
+Dieses elegante Python-Projekt, aufgebaut mit der Power von Streamlit, generiert **dynamisch** und **kontextsensitiv** Erklärungen zu komplexen Themen aus verschiedenen Fächern und bietet diese in **unterschiedlichen Schwierigkeitsgraden** an. Es ist der ultimative Beweis, wie moderne Python-Tools genutzt werden können, um den Lernprozess zu individualisieren.
+
+**Das Ziel:** Erklärungen auf Knopfdruck, die **perfekt zum aktuellen Wissensstand** des Lernenden passen\! Biete Schülern eine **adaptive Quelle** für inhaltliches Verständnis.
 
 -----
 
-## 🎯 Core Features (The Punchlines)
+## 🎯 Kern-Features (Die Highlights)
 
-  * **⚡️ Load Once (Smart Caching):** Thanks to **clever Streamlit Session State**, the costly disk read operation is executed only **a single time** on the first run. **Maximize performance, minimize wait time\!**
-  * **🛠️ Dynamic Control:** Select the Subject (German, English, Math, etc.), the Level (1-10), and the exact **Amount** of tasks using intuitive sliders and dropdowns.
-  * **🎲 True Randomness:** The `XTasks` function **guarantees** a random selection of assignments, preventing repetition (as long as enough tasks are available).
-  * **🧑‍💻 Clean Architecture:** Clearly defined classes (`Student`) and modular functions (`CleanTasks`, `ReadSubjectFile`) make the code **readable, maintainable**, and **extensible**.
+  * **⚡️ Kontextuelles Erklären:** Basierend auf dem gewählten **Thema** (z.B. Photosynthese, Quantenmechanik, Konjunktiv II) generiert die App eine maßgeschneiderte Erklärung.
+  * **🛠️ Dynamische Schwierigkeit:** Wähle den gewünschten **Level** (z.B. **Level 1: Einfach & Analog** bis **Level 10: Akademisch & Mathematisch**) mithilfe eines intuitiven Sliders.
+  * **🧠 Adaptive Tiefe:** Die App steuert die **Komplexität des Vokabulars**, die **Länge der Sätze** und die **Anzahl der Fachbegriffe** basierend auf dem gewählten Level.
+  * **🧑‍💻 Clean Architecture:** Klar definierte Funktionen zur Generierung (`GenerateExplanation`), Themenauswahl und Level-Steuerung machen den Code **lesbar, wartbar** und **erweiterbar**.
 
 -----
 
 ## 🚀 Installation & Launch
 
-You will need Python 3.x and Streamlit.
+Sie benötigen Python 3.x und Streamlit (sowie eine Implementierung zur Erklärungserzeugung, z.B. über eine API oder ein lokales Modell).
 
 1.  **Clone the Repository:**
 
@@ -32,11 +33,12 @@ You will need Python 3.x and Streamlit.
 2.  **Install Dependencies:**
 
     ```bash
-    pip install streamlit
+    pip install streamlit 
+    # Optional: pip install requests (für API-Calls zur Generierung)
     ```
 
-3.  **Set Up Data Structure:**
-    Ensure you have the `subjects` folder with subfolders for your subjects and the corresponding `.txt` files for the levels (e.g., `subjects/german/german_level1.txt`).
+3.  **Set Up Data Structure (Themenliste):**
+    Stellen Sie sicher, dass Sie eine `topics.json` oder eine ähnliche Datei haben, die die **verfügbaren Themen** pro Fach enthält.
 
 4.  **Run the App:**
 
@@ -44,39 +46,38 @@ You will need Python 3.x and Streamlit.
     streamlit run YOUR_MAIN_FILENAME.py
     ```
 
-    *(Replace `YOUR_MAIN_FILENAME.py` with the actual name of your Python file, e.g., `app.py` or `generator.py`)*
+    *(Ersetzen Sie `YOUR_MAIN_FILENAME.py` durch den tatsächlichen Namen Ihrer Python-Datei, z.B. `app.py` oder `explainer.py`)*
 
 -----
 
-## 💡 How It Works (Usage)
+## 💡 Wie es funktioniert (Anwendung)
 
-Once started, the Streamlit app will open in your browser.
+Sobald die Streamlit-App im Browser geöffnet ist:
 
-1.  Enter your name (for a friendly welcome\!).
-2.  Select the **Subject** from the dropdown.
-3.  Define the **Level** (1-10) using the slider.
-4.  Choose the **desired Amount** of assignments (1-30).
+1.  Gib deinen Namen ein (für eine freundliche Ansprache\!).
+2.  Wähle das **Fach** und das **spezifische Thema** aus dem Dropdown-Menü.
+3.  Definiere den gewünschten **Erklär-Level** (1-10) mithilfe des Sliders.
 
-**Result:** The app instantly displays your **freshly generated, random** tasks\!
+**Resultat:** Die App zeigt sofort eine **frisch generierte Erklärung** an, die **stilistisch und inhaltlich exakt** auf das gewählte Level zugeschnitten ist\!
 
 -----
 
 ## 🛠️ Technology Stack
 
-  * **Python:** The foundation for all the core logic.
-  * **Streamlit:** Enables building a **beautiful, interactive** web application with minimal effort.
-  * **Random:** Used for the fair and unpredictable selection of homework tasks.
+  * **Python:** Die Basis für die gesamte Logik und die Steuerung der Komplexität.
+  * **Streamlit:** Ermöglicht den Bau einer **ansprechenden, interaktiven** Webanwendung mit minimalem Aufwand.
+  * **Generative Logik:** Die Kernkomponente, die die Erklärungsinhalte basierend auf den Level-Parametern generiert (z.B. mittels definierter Funktionen oder einer externen KI-Engine).
 
 -----
 
 ## 🤝 Contributing
 
-This project proves how much power a small Python script can hold. Do you have ideas on how to make the generator even better (e.g., task upload feature, expanded subjects)?
+Dieses Projekt zeigt, wie leistungsfähig eine kleine Python-Anwendung für die Bildung sein kann. Haben Sie Ideen, wie der Explainer noch besser werden kann (z.B. visuelle Diagramme je Level, Vokabel-Glossar-Funktion)?
 
 1.  Fork the Repository.
-2.  Create your Feature Branch (`git checkout -b feature/AmazingFeature`).
-3.  Commit your changes (`git commit -m 'Add some AmazingFeature'`).
-4.  Push to the Branch (`git push origin feature/AmazingFeature`).
+2.  Create your Feature Branch (`git checkout -b feature/AmazingExplanation`).
+3.  Commit your changes (`git commit -m 'Add some AmazingExplanation logic'`).
+4.  Push to the Branch (`git push origin feature/AmazingExplanation`).
 5.  Open a Pull Request.
 
 -----
@@ -87,5 +88,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 -----
 
-> **Built with 🖤 and Python 🐍 by [GilbertZennerDev]**# DynamicTeaching
-# DynamicTeaching
+> **Built with 🖤 and Python 🐍 by [GilbertZennerDev]**
